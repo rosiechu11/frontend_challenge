@@ -61,12 +61,12 @@ table {
   width: 300px;
 }
 
-img.status {
+.status {
 	height: auto;
 	width: 300px;
 }
 
-img.map {
+.map {
 	height: 280px;
 	width: 300px;
 }
