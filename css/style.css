@@ -78,8 +78,9 @@ h2 {
 	display: inline-block;
 	font-size: 20px;
 	font-weight: 450;
-	margin-left: 10px;
 	margin-top: 5px;
+	text-align: center;
+	width: 75%;
 }
 
 h1 {
@@ -117,8 +118,8 @@ nav {
 background-color: #1EB28B;
 display: inline-block;
   margin: 0 auto;
-  padding: 0px 30px 10px 0px;
-  width: 300px;
+  padding: 0px 0px 10px 0px;
+  width: 100%;
 }
 
 .location{
