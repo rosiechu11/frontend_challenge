@@ -126,6 +126,10 @@ display: inline-block;
 	border-bottom: 1px solid #afafaf;
 }
 
+.content {
+	width: 80%;
+}
+
 
 .direction {
 	border-top: 1px solid #ACACAC;
