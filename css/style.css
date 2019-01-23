@@ -65,12 +65,12 @@ table {
 
 img.status {
 	height: auto;
-	width: 300px;
+	width: 100%;
 }
 
 img.map {
 	height: 280px;
-	width: 300px;
+	width: 100%;
 }
 
 
