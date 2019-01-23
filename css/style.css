@@ -59,6 +59,8 @@ table {
   font-size: 18px;
   margin: 0 auto;
   width: 300px;
+	height: 667px;
+	overflow-y:scroll;
 }
 
 img.status {
@@ -134,7 +136,7 @@ display: inline-block;
 .direction {
 	border-top: 1px solid #ACACAC;
 	border-bottom: 1px solid #ACACAC;
-	width: 300px;
+	width: 100%;
 }
 
 .eastbound {
