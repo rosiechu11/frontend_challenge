@@ -183,37 +183,36 @@ h6 {
 li.time {
 border-radius: 10px;
 color: white;
-float: right;
 margin-right: 25px;
 margin-top: 10px;
 margin-bottom: 10px;
 }
 
-p.east {
+.east {
 	background-color: #6E73FF;
 	border-radius: 10px;
 	padding: 5px 10px 5px 10px;
 }
 
-p.north {
+.north {
 	background-color: #DEBA75;
 	border-radius: 10px;
 	padding: 5px 10px 5px 10px;
 }
 
-p.south {
+.south {
 	background-color: #730099;
 	border-radius: 10px;
 	padding: 5px 10px 5px 10px;
 }
 
-p.re {
+.re {
 	background-color: #ff8533;
 	border-radius: 10px;
 	padding: 5px 10px 5px 10px;
 }
 
-p.out {
+.out {
 	background-color: #ff5050;
 	border-radius: 10px;
 	padding: 5px 10px 15px 10px;
